@@ -5,5 +5,6 @@ streamlit.title('🍞 Breakfast menu')
 streamlit.title('🥣 Omega3 and Oatmeal buleberry')
 streamlit.title('🥗 🥑Kales Spinach and Rocket Smoothie')
 streamlit.title('🐔 Hard Boiled Free Range Egg')
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
 
 
